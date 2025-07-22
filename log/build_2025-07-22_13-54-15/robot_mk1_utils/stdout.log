@@ -1,0 +1,19 @@
+[35m[1mConsolidate compiler generated dependencies of target talker[0m
+[100%] Built target talker
+-- Install configuration: ""
+-- Up-to-date: /home/ahmed/agv_ws/install/robot_mk1_utils/lib/robot_mk1_utils/talker
+-- Up-to-date: /home/ahmed/agv_ws/install/robot_mk1_utils/share/ament_index/resource_index/package_run_dependencies/robot_mk1_utils
+-- Up-to-date: /home/ahmed/agv_ws/install/robot_mk1_utils/share/ament_index/resource_index/parent_prefix_path/robot_mk1_utils
+-- Up-to-date: /home/ahmed/agv_ws/install/robot_mk1_utils/share/robot_mk1_utils/environment/ament_prefix_path.sh
+-- Up-to-date: /home/ahmed/agv_ws/install/robot_mk1_utils/share/robot_mk1_utils/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/ahmed/agv_ws/install/robot_mk1_utils/share/robot_mk1_utils/environment/path.sh
+-- Up-to-date: /home/ahmed/agv_ws/install/robot_mk1_utils/share/robot_mk1_utils/environment/path.dsv
+-- Up-to-date: /home/ahmed/agv_ws/install/robot_mk1_utils/share/robot_mk1_utils/local_setup.bash
+-- Up-to-date: /home/ahmed/agv_ws/install/robot_mk1_utils/share/robot_mk1_utils/local_setup.sh
+-- Up-to-date: /home/ahmed/agv_ws/install/robot_mk1_utils/share/robot_mk1_utils/local_setup.zsh
+-- Up-to-date: /home/ahmed/agv_ws/install/robot_mk1_utils/share/robot_mk1_utils/local_setup.dsv
+-- Installing: /home/ahmed/agv_ws/install/robot_mk1_utils/share/robot_mk1_utils/package.dsv
+-- Up-to-date: /home/ahmed/agv_ws/install/robot_mk1_utils/share/ament_index/resource_index/packages/robot_mk1_utils
+-- Up-to-date: /home/ahmed/agv_ws/install/robot_mk1_utils/share/robot_mk1_utils/cmake/robot_mk1_utilsConfig.cmake
+-- Up-to-date: /home/ahmed/agv_ws/install/robot_mk1_utils/share/robot_mk1_utils/cmake/robot_mk1_utilsConfig-version.cmake
+-- Up-to-date: /home/ahmed/agv_ws/install/robot_mk1_utils/share/robot_mk1_utils/package.xml

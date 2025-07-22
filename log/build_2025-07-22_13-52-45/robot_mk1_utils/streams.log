@@ -1,0 +1,10 @@
+[0.015s] Invoking command in '/home/ahmed/agv_ws/build/robot_mk1_utils': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ahmed/agv_ws/build/robot_mk1_utils -- -j12 -l12
+[0.057s] [35m[1mConsolidate compiler generated dependencies of target talker[0m
+[0.069s] [ 50%] [32m[1mLinking CXX executable talker[0m
+[0.193s] /usr/bin/ld: /usr/lib/gcc/x86_64-linux-gnu/11/../../../x86_64-linux-gnu/Scrt1.o: in function `_start':
+[0.193s] (.text+0x1b): undefined reference to `main'
+[0.195s] collect2: error: ld returned 1 exit status
+[0.197s] gmake[2]: *** [CMakeFiles/talker.dir/build.make:159: talker] Error 1
+[0.197s] gmake[1]: *** [CMakeFiles/Makefile2:137: CMakeFiles/talker.dir/all] Error 2
+[0.197s] gmake: *** [Makefile:146: all] Error 2
+[0.200s] Invoked command in '/home/ahmed/agv_ws/build/robot_mk1_utils' returned '2': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ahmed/agv_ws/build/robot_mk1_utils -- -j12 -l12

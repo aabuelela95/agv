@@ -1,0 +1,25 @@
+[0.015s] Invoking command in '/home/ahmed/agv_ws/build/robot_mk1_utils': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ahmed/agv_ws/build/robot_mk1_utils -- -j12 -l12
+[0.071s] [ 50%] [32mBuilding CXX object CMakeFiles/talker.dir/src/talker.cpp.o[0m
+[4.466s] [100%] [32m[1mLinking CXX executable talker[0m
+[4.718s] [100%] Built target talker
+[4.730s] Invoked command in '/home/ahmed/agv_ws/build/robot_mk1_utils' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ahmed/agv_ws/build/robot_mk1_utils -- -j12 -l12
+[4.743s] Invoking command in '/home/ahmed/agv_ws/build/robot_mk1_utils': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/ahmed/agv_ws/build/robot_mk1_utils
+[4.750s] -- Install configuration: ""
+[4.750s] -- Installing: /home/ahmed/agv_ws/install/robot_mk1_utils/lib/robot_mk1_utils/talker
+[4.752s] -- Set runtime path of "/home/ahmed/agv_ws/install/robot_mk1_utils/lib/robot_mk1_utils/talker" to ""
+[4.753s] -- Installing: /home/ahmed/agv_ws/install/robot_mk1_utils/share/ament_index/resource_index/package_run_dependencies/robot_mk1_utils
+[4.754s] -- Installing: /home/ahmed/agv_ws/install/robot_mk1_utils/share/ament_index/resource_index/parent_prefix_path/robot_mk1_utils
+[4.754s] -- Installing: /home/ahmed/agv_ws/install/robot_mk1_utils/share/robot_mk1_utils/environment/ament_prefix_path.sh
+[4.754s] -- Installing: /home/ahmed/agv_ws/install/robot_mk1_utils/share/robot_mk1_utils/environment/ament_prefix_path.dsv
+[4.755s] -- Installing: /home/ahmed/agv_ws/install/robot_mk1_utils/share/robot_mk1_utils/environment/path.sh
+[4.755s] -- Installing: /home/ahmed/agv_ws/install/robot_mk1_utils/share/robot_mk1_utils/environment/path.dsv
+[4.755s] -- Installing: /home/ahmed/agv_ws/install/robot_mk1_utils/share/robot_mk1_utils/local_setup.bash
+[4.755s] -- Installing: /home/ahmed/agv_ws/install/robot_mk1_utils/share/robot_mk1_utils/local_setup.sh
+[4.755s] -- Installing: /home/ahmed/agv_ws/install/robot_mk1_utils/share/robot_mk1_utils/local_setup.zsh
+[4.756s] -- Installing: /home/ahmed/agv_ws/install/robot_mk1_utils/share/robot_mk1_utils/local_setup.dsv
+[4.756s] -- Installing: /home/ahmed/agv_ws/install/robot_mk1_utils/share/robot_mk1_utils/package.dsv
+[4.757s] -- Installing: /home/ahmed/agv_ws/install/robot_mk1_utils/share/ament_index/resource_index/packages/robot_mk1_utils
+[4.757s] -- Installing: /home/ahmed/agv_ws/install/robot_mk1_utils/share/robot_mk1_utils/cmake/robot_mk1_utilsConfig.cmake
+[4.757s] -- Installing: /home/ahmed/agv_ws/install/robot_mk1_utils/share/robot_mk1_utils/cmake/robot_mk1_utilsConfig-version.cmake
+[4.758s] -- Installing: /home/ahmed/agv_ws/install/robot_mk1_utils/share/robot_mk1_utils/package.xml
+[4.760s] Invoked command in '/home/ahmed/agv_ws/build/robot_mk1_utils' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/ahmed/agv_ws/build/robot_mk1_utils

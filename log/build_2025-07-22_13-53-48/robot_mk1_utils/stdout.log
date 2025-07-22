@@ -1,0 +1,21 @@
+[ 50%] [32mBuilding CXX object CMakeFiles/talker.dir/src/talker.cpp.o[0m
+[100%] [32m[1mLinking CXX executable talker[0m
+[100%] Built target talker
+-- Install configuration: ""
+-- Installing: /home/ahmed/agv_ws/install/robot_mk1_utils/lib/robot_mk1_utils/talker
+-- Set runtime path of "/home/ahmed/agv_ws/install/robot_mk1_utils/lib/robot_mk1_utils/talker" to ""
+-- Installing: /home/ahmed/agv_ws/install/robot_mk1_utils/share/ament_index/resource_index/package_run_dependencies/robot_mk1_utils
+-- Installing: /home/ahmed/agv_ws/install/robot_mk1_utils/share/ament_index/resource_index/parent_prefix_path/robot_mk1_utils
+-- Installing: /home/ahmed/agv_ws/install/robot_mk1_utils/share/robot_mk1_utils/environment/ament_prefix_path.sh
+-- Installing: /home/ahmed/agv_ws/install/robot_mk1_utils/share/robot_mk1_utils/environment/ament_prefix_path.dsv
+-- Installing: /home/ahmed/agv_ws/install/robot_mk1_utils/share/robot_mk1_utils/environment/path.sh
+-- Installing: /home/ahmed/agv_ws/install/robot_mk1_utils/share/robot_mk1_utils/environment/path.dsv
+-- Installing: /home/ahmed/agv_ws/install/robot_mk1_utils/share/robot_mk1_utils/local_setup.bash
+-- Installing: /home/ahmed/agv_ws/install/robot_mk1_utils/share/robot_mk1_utils/local_setup.sh
+-- Installing: /home/ahmed/agv_ws/install/robot_mk1_utils/share/robot_mk1_utils/local_setup.zsh
+-- Installing: /home/ahmed/agv_ws/install/robot_mk1_utils/share/robot_mk1_utils/local_setup.dsv
+-- Installing: /home/ahmed/agv_ws/install/robot_mk1_utils/share/robot_mk1_utils/package.dsv
+-- Installing: /home/ahmed/agv_ws/install/robot_mk1_utils/share/ament_index/resource_index/packages/robot_mk1_utils
+-- Installing: /home/ahmed/agv_ws/install/robot_mk1_utils/share/robot_mk1_utils/cmake/robot_mk1_utilsConfig.cmake
+-- Installing: /home/ahmed/agv_ws/install/robot_mk1_utils/share/robot_mk1_utils/cmake/robot_mk1_utilsConfig-version.cmake
+-- Installing: /home/ahmed/agv_ws/install/robot_mk1_utils/share/robot_mk1_utils/package.xml
